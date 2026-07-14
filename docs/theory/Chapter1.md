@@ -74,6 +74,3 @@ Because the coordinates are coupled through the electron-electron interaction te
 
 ---
 
-## 2.4 Fundamental Ground Rules for Git Commit Notes
-* When committing these notes to your repository, ensure your markdown viewer supports standard LaTeX parsing (such as MathJax or native GitHub math syntax) to keep the multi-variable gradients and indices legible.
-* [cite_start]These foundations set up **Chapter 3 (The Kohn-Sham Formulation)**, where this complex $3N$-dimensional wavefunction is formally mapped down to a manageable 3-dimensional electron density function $n(\vec{r})$[cite: 3].
